@@ -7,12 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type":"git",
-    "url":"https://github.com/pointblue/pb-api-client-gen.git"
+    "type": "git",
+    "url": "https://github.com/pointblue/pb-api-client-gen.git"
   },
   "author": "Point Blue Conservation Science",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.4",
     "swagger-js-codegen": "1.7.12",
     "swagger-parser": "^4.0.2",
     "yamljs": "^0.3.0"
