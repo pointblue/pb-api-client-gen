@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Point Blue Conservation Science",
+  "license": "MIT",
   "dependencies": {
     "swagger-js-codegen": "1.7.12",
     "swagger-parser": "^4.0.2",

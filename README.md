@@ -9,6 +9,7 @@ This project just makes it easier to define and generate API clients.
 
 `npm install *package-name-here* --save-dev`  
 
-  - Create an apiClients.yml file
+  - Create an `apiClients.yml` file
   - Add command to `package.json` file  
   
+TODO: Create instructions on how to create apiClients.yml file
