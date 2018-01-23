@@ -7,7 +7,7 @@ This project just makes it easier to define and generate API clients.
 
 ## Installation  
 
-`npm install *package-name-here* --save-dev`  
+`npm install pb-api-client-gen --save-dev`  
 
   - Create an `apiClients.yml` file
   - Add command to `package.json` file  
