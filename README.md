@@ -11,12 +11,12 @@ All commands must be run from the root path of your project
 
   1. `npm install pb-api-client-gen --save-dev`  
   2. Create an `apiClients.yml` file using the example below  
-  3. Add command to `package.json` file  
-    - Add a property named `build-api` to the `scripts` object. Set it's value to `build-app`. 
-  
-## Creating an `apiClients.yml` file
+  3. Edit your project's `package.json` file and add a property named `build-api` with the value `build-api` to the 
+  `scripts` object. Use the example below for reference.  
 
-`apiClients.yml` should be in the root path of your project. This file defines the clients that will be generated.  
+## Creating an `apiClients.yml` file  
+
+`apiClients.yml` should be in the root path of your project. This file defines the clients that will be generated.    
 
 ### Example file
 
