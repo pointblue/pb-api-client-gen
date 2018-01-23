@@ -1,0 +1,16 @@
+{
+  "name": "pb-api-client-gen",
+  "version": "1.0.0",
+  "description": "Javascript API client generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swagger-js-codegen": "1.7.12",
+    "swagger-parser": "^4.0.2",
+    "yamljs": "^0.3.0"
+  }
+}
