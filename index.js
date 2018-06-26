@@ -34,6 +34,6 @@ function createClientFromOptions( options ){
     }
 
     function writeClient(angularSourceCode){
-        fs.writeFile( generatedFilePath, angularSourceCode, FILE_ENCODING );
+        fs.writeFileSync( generatedFilePath, angularSourceCode, FILE_ENCODING );
     }
 }
